@@ -1,0 +1,13 @@
+C:\Users\tacol\Desktop\Grand Circus Docs\Projects\RegExLab7\RegExLab7\bin\Debug\netcoreapp3.1\RegExLab7.exe
+C:\Users\tacol\Desktop\Grand Circus Docs\Projects\RegExLab7\RegExLab7\bin\Debug\netcoreapp3.1\RegExLab7.deps.json
+C:\Users\tacol\Desktop\Grand Circus Docs\Projects\RegExLab7\RegExLab7\bin\Debug\netcoreapp3.1\RegExLab7.runtimeconfig.json
+C:\Users\tacol\Desktop\Grand Circus Docs\Projects\RegExLab7\RegExLab7\bin\Debug\netcoreapp3.1\RegExLab7.runtimeconfig.dev.json
+C:\Users\tacol\Desktop\Grand Circus Docs\Projects\RegExLab7\RegExLab7\bin\Debug\netcoreapp3.1\RegExLab7.dll
+C:\Users\tacol\Desktop\Grand Circus Docs\Projects\RegExLab7\RegExLab7\bin\Debug\netcoreapp3.1\RegExLab7.pdb
+C:\Users\tacol\Desktop\Grand Circus Docs\Projects\RegExLab7\RegExLab7\obj\Debug\netcoreapp3.1\RegExLab7.csprojAssemblyReference.cache
+C:\Users\tacol\Desktop\Grand Circus Docs\Projects\RegExLab7\RegExLab7\obj\Debug\netcoreapp3.1\RegExLab7.AssemblyInfoInputs.cache
+C:\Users\tacol\Desktop\Grand Circus Docs\Projects\RegExLab7\RegExLab7\obj\Debug\netcoreapp3.1\RegExLab7.AssemblyInfo.cs
+C:\Users\tacol\Desktop\Grand Circus Docs\Projects\RegExLab7\RegExLab7\obj\Debug\netcoreapp3.1\RegExLab7.csproj.CoreCompileInputs.cache
+C:\Users\tacol\Desktop\Grand Circus Docs\Projects\RegExLab7\RegExLab7\obj\Debug\netcoreapp3.1\RegExLab7.dll
+C:\Users\tacol\Desktop\Grand Circus Docs\Projects\RegExLab7\RegExLab7\obj\Debug\netcoreapp3.1\RegExLab7.pdb
+C:\Users\tacol\Desktop\Grand Circus Docs\Projects\RegExLab7\RegExLab7\obj\Debug\netcoreapp3.1\RegExLab7.genruntimeconfig.cache
